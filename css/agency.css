@@ -325,6 +325,12 @@ header.masthead .intro-text .intro-heading {
   font-size: 3em;
   margin-bottom: 15px;
 }
+@media screen and (max-width: 600px) {
+  .portfolio-modal .modal-content h2 {
+    font-size: 0em;
+    margin-bottom: 15px;
+  }
+}
 
 .portfolio-modal .modal-content p {
   margin-bottom: 30px;
