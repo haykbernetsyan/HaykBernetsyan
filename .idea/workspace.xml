@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a905279f-d5c0-4588-a3fe-5ad206a5f3f4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/visits.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/visits.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,16 +17,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="439">
-              <caret line="660" column="9" selection-start-line="660" selection-start-column="9" selection-end-line="660" selection-end-column="9" />
+            <state relative-caret-position="274">
+              <caret line="631" column="49" selection-start-line="631" selection-start-column="49" selection-end-line="631" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/visits.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -46,6 +62,7 @@
         <option value="$PROJECT_DIR$/mail/contact_me.php" />
         <option value="$PROJECT_DIR$/css/agency.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/visits.js" />
       </list>
     </option>
   </component>
@@ -83,7 +100,7 @@
             <path>
               <item name="Hayk_Bernetsyan" type="b2602c69:ProjectViewProjectNode" />
               <item name="Hayk_Bernetsyan" type="462c0819:PsiDirectoryNode" />
-              <item name="mail" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -131,12 +148,12 @@
       <workItem from="1558357249901" duration="648000" />
       <workItem from="1558357965533" duration="493000" />
       <workItem from="1558358817857" duration="163000" />
-      <workItem from="1558359662998" duration="213000" />
+      <workItem from="1558359662998" duration="1112000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9170000" />
+    <option name="totallyTimeSpent" value="10069000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="61" y="25" width="1379" height="875" extended-state="6" />
@@ -292,8 +309,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="439">
-          <caret line="660" column="9" selection-start-line="660" selection-start-column="9" selection-end-line="660" selection-end-column="9" />
+        <state relative-caret-position="274">
+          <caret line="631" column="49" selection-start-line="631" selection-start-column="49" selection-end-line="631" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/visits.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
         </state>
       </provider>
     </entry>
