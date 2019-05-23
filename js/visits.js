@@ -35,9 +35,5 @@ function setCookie(visits) {
 
 if ("" == document.cookie) {
     setCookie(1);
-    alert("Поздравляю Вас с первым посещением моего сайта.");
-} else {
-    var cookies = parseCookie();
-    alert("Мы снова рады видеть Вас на моем сайте! Число лично ваших посещений - " + (cookies.visits++) + " !");
-    setCookie(isNaN(cookies.visits) ? 1 : cookies.visits);
+    alert("Поздравляю Вас с первым посещением моего сайта. нажмите OK для продолжения");
 }
